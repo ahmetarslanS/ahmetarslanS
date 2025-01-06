@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Ahmet</h1>
-<h3 align="center">a fresh graduate Software Engineer from Izmir, Türkiye.</h3>
+<h2 align="left">Hi, I am Ahmet</h1>
+<h3 align="left">a fresh graduate Software Engineer from Izmir, Türkiye.</h3>
 
 - Reach me at **ahmet_1285_arslan@hotmail.com**
 
